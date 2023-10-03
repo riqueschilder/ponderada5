@@ -1,7 +1,7 @@
 Henrique Agostinho Schilder Lima
 
 
-O artigo "Machine learning for internet of things data analysis: a survey" aborda de maneira abrangente a aplicação de algoritmos de aprendizado de máquina na análise de dados do Internet of Things (IoT). O conteúdo é dividido em seções que exploram desde a introdução do conceito de IoT até as características específicas dos dados gerados por cidades inteligentes.
+O artigo "Machine learning for internet of things data analysis: a survey" aborda de maneira abrangente a aplicação de algoritmos de aprendizado de máquina na análise de dados do IoT. O conteúdo é dividido em seções que exploram desde a introdução do conceito de IoT até as características específicas dos dados gerados por cidades inteligentes.
 
 O trabalho apresenta uma contribuição significativa para a compreensão de como os algoritmos de aprendizado de máquina podem ser aplicados a dados inteligentes da IoT. Ele destaca a importância de considerar as características específicas dos dados, como volume, variedade e velocidade, ao escolher ou desenvolver algoritmos.
 
